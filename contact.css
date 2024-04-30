@@ -1,0 +1,33 @@
+div{
+height:200px;
+width:280px;
+border:2px solid black;
+padding:20px;
+text-align:center;
+position:fixed;
+top:240px;
+left:600px;
+border-radius:10px;
+background-color:#DDDDDD;
+color:#3C3633;
+}
+h1{
+height:50px;
+width:320px;
+border:2px solid black;
+border-radius:10px;
+position:fixed;
+top:140px;
+left:600px;
+background-color:#DDDDDD;
+color:#3C3633;
+}
+#a{
+height:30px;
+width:280px;
+border:2px solid black;
+border-radius:10px;
+position:fixed;
+top:510px;
+left:600px;
+}
